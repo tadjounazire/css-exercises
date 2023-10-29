@@ -34,8 +34,7 @@ img {
 }
 
 .info{
-  width: 200px;
-  text-wrap: wrap;
+  max-width: 200px;
   text-align: center;
 }
 
